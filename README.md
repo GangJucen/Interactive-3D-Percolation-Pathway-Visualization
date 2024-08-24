@@ -5,7 +5,7 @@ This interesting project is a 3D percolation model to provide the conductive pat
 ### Percolation Probability Value Estimation ###
 This project conjudates with the Interactive-3D-Percolation-Pathway-Visualization project, which predict the percolation probability based on the coductive media fraction(Volume fraction in %) as inputs.
 
-### Prompts to Generate this project ###
+### Prompts to optimize this project ###
 Structured Outline of Prompts for 3D Scientific Visualization Development
 
 -1. Initial Setup and Basic Visualization
